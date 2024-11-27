@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Vozila>
+  <Vozilo>
+    <Marka>Audi</Marka>
+    <Model>A8</Model>
+    <GodinaProizvodnje>2018</GodinaProizvodnje>
+    <Kilometraza>20000</Kilometraza>
+  </Vozilo>
+  <Vozilo>
+    <Marka>Fiat</Marka>
+    <Model>Punto</Model>
+    <GodinaProizvodnje>2000</GodinaProizvodnje>
+    <Kilometraza>10000</Kilometraza>
+  </Vozilo>
+  <Vozilo>
+    <Marka>BMW</Marka>
+    <Model>M4</Model>
+    <GodinaProizvodnje>2020</GodinaProizvodnje>
+    <Kilometraza>1000</Kilometraza>
+  </Vozilo>
+</Vozila>
